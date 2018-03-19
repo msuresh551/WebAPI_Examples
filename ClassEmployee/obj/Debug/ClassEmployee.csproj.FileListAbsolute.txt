@@ -1,0 +1,20 @@
+G:\MVC\WEB API VENKAT\WebAPI_EXample\ClassEmployee\bin\Debug\ClassEmployee.dll.config
+G:\MVC\WEB API VENKAT\WebAPI_EXample\ClassEmployee\bin\Debug\ClassEmployee.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\ClassEmployee\bin\Debug\ClassEmployee.pdb
+G:\MVC\WEB API VENKAT\WebAPI_EXample\ClassEmployee\bin\Debug\EntityFramework.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\ClassEmployee\bin\Debug\EntityFramework.SqlServer.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\ClassEmployee\bin\Debug\EntityFramework.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\ClassEmployee\bin\Debug\EntityFramework.SqlServer.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\ClassEmployee\obj\Debug\ClassEmployee.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\ClassEmployee\obj\Debug\ClassEmployee.pdb
+G:\MVC\WEB API VENKAT\WebAPI_EXample\ClassEmployee\obj\Debug\ClassEmployee.csprojResolveAssemblyReference.cache
+F:\my_projects_backups\WebAPI_EXample\ClassEmployee\bin\Debug\ClassEmployee.dll.config
+F:\my_projects_backups\WebAPI_EXample\ClassEmployee\bin\Debug\ClassEmployee.dll
+F:\my_projects_backups\WebAPI_EXample\ClassEmployee\bin\Debug\ClassEmployee.pdb
+F:\my_projects_backups\WebAPI_EXample\ClassEmployee\bin\Debug\EntityFramework.dll
+F:\my_projects_backups\WebAPI_EXample\ClassEmployee\bin\Debug\EntityFramework.SqlServer.dll
+F:\my_projects_backups\WebAPI_EXample\ClassEmployee\bin\Debug\EntityFramework.xml
+F:\my_projects_backups\WebAPI_EXample\ClassEmployee\bin\Debug\EntityFramework.SqlServer.xml
+F:\my_projects_backups\WebAPI_EXample\ClassEmployee\obj\Debug\ClassEmployee.csprojResolveAssemblyReference.cache
+F:\my_projects_backups\WebAPI_EXample\ClassEmployee\obj\Debug\ClassEmployee.dll
+F:\my_projects_backups\WebAPI_EXample\ClassEmployee\obj\Debug\ClassEmployee.pdb

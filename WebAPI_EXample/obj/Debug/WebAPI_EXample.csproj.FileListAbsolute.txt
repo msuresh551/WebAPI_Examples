@@ -1,0 +1,158 @@
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\roslyn\csc.exe
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\roslyn\System.Collections.Immutable.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\roslyn\System.Reflection.Metadata.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\roslyn\vbc.exe
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\roslyn\VBCSCompiler.exe
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\roslyn\VBCSCompiler.exe.config
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\WebAPI_EXample.dll.config
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\WebAPI_EXample.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\WebAPI_EXample.pdb
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Antlr3.Runtime.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\EntityFramework.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\EntityFramework.SqlServer.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.AspNet.Identity.Core.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Cookies.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Facebook.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Google.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.OAuth.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Twitter.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Web.Infrastructure.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Newtonsoft.Json.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Owin.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Net.Http.Formatting.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Helpers.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Http.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Http.Owin.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Http.WebHost.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Mvc.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Optimization.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Razor.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.WebPages.Deployment.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.WebPages.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.WebPages.Razor.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\WebGrease.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Newtonsoft.Json.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Net.Http.Formatting.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Helpers.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Http.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Http.WebHost.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Mvc.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Optimization.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Razor.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.WebPages.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.WebPages.Deployment.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.WebPages.Razor.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Antlr3.Runtime.pdb
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\EntityFramework.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\EntityFramework.SqlServer.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.AspNet.Identity.Core.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Facebook.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Cookies.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.OAuth.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Google.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Twitter.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Http.Owin.xml
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\obj\Debug\WebAPI_EXample.csprojResolveAssemblyReference.cache
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\obj\Debug\WebAPI_EXample.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\obj\Debug\WebAPI_EXample.pdb
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\ClassEmployee.dll
+G:\MVC\WEB API VENKAT\WebAPI_EXample\WebAPI_EXample\bin\ClassEmployee.pdb
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\roslyn\csc.exe
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\roslyn\System.Collections.Immutable.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\roslyn\System.Reflection.Metadata.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\roslyn\vbc.exe
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\roslyn\VBCSCompiler.exe
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\roslyn\VBCSCompiler.exe.config
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\WebAPI_EXample.dll.config
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\WebAPI_EXample.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\WebAPI_EXample.pdb
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Antlr3.Runtime.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\ClassEmployee.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\EntityFramework.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\EntityFramework.SqlServer.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.AspNet.Identity.Core.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Cookies.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Facebook.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Google.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.OAuth.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Twitter.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Web.Infrastructure.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Newtonsoft.Json.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Owin.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Net.Http.Formatting.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Helpers.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Http.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Http.Owin.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Http.WebHost.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Mvc.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Optimization.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Razor.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.WebPages.Deployment.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.WebPages.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.WebPages.Razor.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\WebGrease.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\ClassEmployee.pdb
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Newtonsoft.Json.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Net.Http.Formatting.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Helpers.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Http.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Http.WebHost.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Mvc.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Optimization.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Razor.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.WebPages.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.WebPages.Deployment.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.WebPages.Razor.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Antlr3.Runtime.pdb
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\EntityFramework.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\EntityFramework.SqlServer.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.AspNet.Identity.Core.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Facebook.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Cookies.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.OAuth.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Google.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.Twitter.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\bin\System.Web.Http.Owin.xml
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\obj\Debug\WebAPI_EXample.csprojResolveAssemblyReference.cache
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\obj\Debug\WebAPI_EXample.dll
+F:\my_projects_backups\WebAPI_EXample\WebAPI_EXample\obj\Debug\WebAPI_EXample.pdb

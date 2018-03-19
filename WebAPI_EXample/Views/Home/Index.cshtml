@@ -1,0 +1,28 @@
+﻿
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var serviceURL = 'Api/Employee/1';
+        $.ajax({
+            type: "GET",
+            url: serviceURL,
+            data: param = "",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: successFunc,
+            error: errorFunc
+        });
+        function successFunc(data, status) {
+            var myJSON = JSON.stringify(data);
+            var test = JSON.parse(myJSON);
+            $('#StudentName').val(test.empID);
+
+        }
+        function errorFunc() {
+            alert('error');
+        }
+    });
+</script>
+
+@Html.TextBox("StudentName", null, new { @class = "form-control" }) 
